@@ -2,14 +2,14 @@
 
 import datetime
 from pymongo import MongoClient
-from config import MONGO_URI, MONGO_DB
+from config import MONGO_COLLECTION, MONGO_URI, MONGO_DB
 from db_interface import DatabaseInterface
 
 class MongoDBHandler(DatabaseInterface):
     def __init__(self):
         self.client = MongoClient(MONGO_URI)
         self.db = self.client[MONGO_DB]
-        self.collection = self.db["pac3220_data"]
+        self.collection = self.db[MONGO_COLLECTION]
 
     def write_data(self, data):
         """Inserts Modbus data into MongoDB."""

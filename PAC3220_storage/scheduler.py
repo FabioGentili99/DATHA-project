@@ -3,7 +3,7 @@
 import schedule
 import time
 from modbus_reader import ModbusReader
-from config import DB_TYPE
+from config import DB_TYPE, POLL_INTERVAL
 from db_influx import InfluxDBHandler
 from db_mongo import MongoDBHandler
 
@@ -30,11 +30,11 @@ def read_and_store():
     #db.close()
 
 # Schedule the function to run every POLL_INTERVAL seconds
-schedule.every(5).seconds.do(read_and_store)
+schedule.every(POLL_INTERVAL).seconds.do(read_and_store)
 
 def start_scheduler():
     """Starts the scheduled task loop."""
-    print(f"Starting data collection every 5 seconds...")
+    print(f"Starting data collection every {POLL_INTERVAL} seconds...")
     while True:
         schedule.run_pending()
         time.sleep(1)

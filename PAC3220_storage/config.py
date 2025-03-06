@@ -3,21 +3,21 @@
 # Modbus TCP Configuration
 MODBUS_IP = "192.168.102.16"
 MODBUS_PORT = 502
-UNIT_ID = 1
 POLL_INTERVAL = 5  # Seconds between reads
 
 # Database Selection
-DB_TYPE = "influxdb"  # Change to "postgres" or "mongodb" as needed
+DB_TYPE = "influxdb"  # Change to "mongodb" as needed
 
 # InfluxDB Configuration
 INFLUX_URL = "http://localhost:8086"
-INFLUX_TOKEN = "your-influxdb-token"
-INFLUX_ORG = "your-org"
+INFLUX_TOKEN = "*"
+INFLUX_ORG = "*"
 INFLUX_BUCKET = "pac3220_data"
 
 # MongoDB Configuration
 MONGO_URI = "mongodb://localhost:27017/"
 MONGO_DB = "pac3220"
+MONGO_COLLECTION = "pac3220_data"
 
 
 

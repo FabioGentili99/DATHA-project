@@ -2,7 +2,7 @@
 
 from pymodbus.client import ModbusTcpClient
 import struct
-from config import MODBUS_IP, MODBUS_PORT, UNIT_ID, REGISTER_MAP
+from config import MODBUS_IP, MODBUS_PORT, REGISTER_MAP
 
 class ModbusReader:
     def __init__(self):
