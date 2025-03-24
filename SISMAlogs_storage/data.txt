@@ -1,0 +1,84 @@
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_ENV\", \"measurements\": [{\"parameter\": \"Measured temperature\", \"value\": 27.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Measured R.H.\", \"value\": 38.5, \"unit\": \"%\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_SENSORS\", \"measurements\": [{\"parameter\": \"Chamber Pressure\", \"value\": -0.2, \"unit\": \"mbar\"}, {\"parameter\": \"Electrical Cabinet Temp.\", \"value\": 33.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Transformer Temp.\", \"value\": 35.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Inlet Water Temp.\", \"value\": 17.5, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Outlet Water Temp.\", \"value\": 21.1, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Inlet Laser Temp.\", \"value\": 23.8, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Chiller Tank Laser Temp.\", \"value\": 27.7, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Inlet Mechanics Temp.\", \"value\": \"NaN\", \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cooling Chiller Tank Mechanics Temp.\", \"value\": \"NaN\", \"unit\": \"\\u00b0C\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_AIR\", \"measurements\": [{\"parameter\": \"Compensated Flux Speed\", \"value\": 0.0, \"unit\": \"m/sec\"}, {\"parameter\": \"Flux Speed (inlet)\", \"value\": 0.0, \"unit\": \"m/sec\"}, {\"parameter\": \"Flux Temperature (inlet)\", \"value\": 32.5, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Flux Humidity (inlet)\", \"value\": 23.0, \"unit\": \"%\"}, {\"parameter\": \"Flux Temperature (outlet)\", \"value\": 27.1, \"unit\": \"\\u00b0C\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_GAS\", \"measurements\": [{\"parameter\": \"Inert gas flux\", \"value\": 0.0, \"unit\": \"l/min\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_O2MANAGER\", \"measurements\": [{\"parameter\": \"O2[0]\", \"value\": 20.49, \"unit\": \"%\"}, {\"parameter\": \"O2[1]\", \"value\": 16.49, \"unit\": \"%\"}, {\"parameter\": \"O2[2]\", \"value\": 17.17, \"unit\": \"%\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_FILTER\", \"measurements\": [{\"parameter\": \"Type\", \"value\": 5.0, \"unit\": null}, {\"parameter\": \"dP[1]\", \"value\": 0.02, \"unit\": \"mbar\"}, {\"parameter\": \"dP[2]\", \"value\": -0.07, \"unit\": \"mbar\"}, {\"parameter\": \"Police Filter dP\", \"value\": -0.11, \"unit\": \"mbar\"}, {\"parameter\": \"System Pressure\", \"value\": 50.0, \"unit\": null}, {\"parameter\": \"O2_in\", \"value\": 18.44, \"unit\": \"%\"}, {\"parameter\": \"O2_out\", \"value\": 16.06, \"unit\": \"%\"}, {\"parameter\": \"Pump Air Speed Command\", \"value\": \"NaN\", \"unit\": \"%\"}, {\"parameter\": \"Pump Air Speed Sensor\", \"value\": \"NaN\", \"unit\": \"rpm\"}, {\"parameter\": \"Pump Torque\", \"value\": \"NaN\", \"unit\": \"%\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_PREHEATING\", \"measurements\": [{\"parameter\": \"Enabled\", \"value\": \"No\", \"unit\": null}, {\"parameter\": \"Hot Temperature\", \"value\": 26.6, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"A/I Hot Temperature 1\", \"value\": 26.5, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"A/I Hot Temperature 2\", \"value\": 26.9, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Cold Temperature\", \"value\": 26.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"A/I Cold Temperature 1\", \"value\": 26.2, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"A/I Cold Temperature 2\", \"value\": 26.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"A/I Reference Temperature\", \"value\": 26.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Duty Cycle\", \"value\": 0.0, \"unit\": \"%\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"MOTORDIAG_WORK_CHAMBER\", \"measurements\": [{\"parameter\": \"Actual Temperature\", \"value\": 35.0, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Peak Torque\", \"value\": 0.0, \"unit\": \"Nm\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"MOTORDIAG_SUPPLY1_CHAMBER\", \"measurements\": [{\"parameter\": \"Actual Temperature\", \"value\": 37.0, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Peak Torque\", \"value\": 0.0, \"unit\": \"Nm\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"MOTORDIAG_SUPPLY2_CHAMBER\", \"measurements\": [{\"parameter\": \"Actual Temperature\", \"value\": 36.0, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Peak Torque\", \"value\": 0.0, \"unit\": \"Nm\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"MOTORDIAG_COATER\", \"measurements\": [{\"parameter\": \"Actual Temperature\", \"value\": 33.0, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Peak Torque\", \"value\": 1.0, \"unit\": \"Nm\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"MEM_USAGE\", \"measurements\": [{\"parameter\": \"By\", \"value\": \"'Periodic'\", \"unit\": null}, {\"parameter\": \"WorkingSet\", \"value\": 365.1, \"unit\": \"MiB\"}, {\"parameter\": \"PeakWorkingSet\", \"value\": 637.9, \"unit\": \"MiB\"}, {\"parameter\": \"PagedMemorySize\", \"value\": 320.2, \"unit\": \"MiB\"}, {\"parameter\": \"PeakPagedMemorySize\", \"value\": 597.9, \"unit\": \"MiB\"}, {\"parameter\": \"VirtualMemorySize\", \"value\": 859.4, \"unit\": \"MiB\"}, {\"parameter\": \"PeakVirtualMemorySize\", \"value\": 1.082, \"unit\": \"GiB\"}, {\"parameter\": \"NonpagedSystemMemorySize\", \"value\": 102.9, \"unit\": \"KiB\"}, {\"parameter\": \"PagedSystemMemorySize\", \"value\": 839.7, \"unit\": \"KiB\"}, {\"parameter\": \"PrivateMemorySize\", \"value\": 320.2, \"unit\": \"MiB\"}, {\"parameter\": \"GdiObjects\", \"value\": 103.0, \"unit\": null}, {\"parameter\": \"UserObjects\", \"value\": 431.0, \"unit\": null}, {\"parameter\": \"Duration\", \"value\": 0.0, \"unit\": \"ms\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_OVERFLOWBIN\", \"measurements\": [{\"parameter\": \"Ready\", \"value\": \"Yes\", \"unit\": null}, {\"parameter\": \"QuotaPercLabel\", \"value\": \"< \", \"unit\": null}, {\"parameter\": \"QuotaPercLevel\", \"value\": 30.0, \"unit\": \"%\"}, {\"parameter\": \"Quota_1\", \"value\": 82.4, \"unit\": null}, {\"parameter\": \"Quota_2\", \"value\": 77.2, \"unit\": null}, {\"parameter\": \"Quota_3\", \"value\": 48.9, \"unit\": null}, {\"parameter\": \"Quota_4\", \"value\": 69.7, \"unit\": null}, {\"parameter\": \"Level_1\", \"value\": 15643.1, \"unit\": null}, {\"parameter\": \"Level_2\", \"value\": 12699.7, \"unit\": null}, {\"parameter\": \"Level_3\", \"value\": 14288.7, \"unit\": null}, {\"parameter\": \"Level_4\", \"value\": 12279.7, \"unit\": null}, {\"parameter\": \"Tare_1\", \"value\": 15560.7, \"unit\": null}, {\"parameter\": \"Tare_2\", \"value\": 12622.5, \"unit\": null}, {\"parameter\": \"Tare_3\", \"value\": 14239.8, \"unit\": null}, {\"parameter\": \"Tare_4\", \"value\": 12209.9, \"unit\": null}, {\"parameter\": \"TotalLevel\", \"value\": 54911.2, \"unit\": \"-\"}]}"
+    ]
+}
+{
+    "timestamp": "2025-03-15 10:13:52.705",
+    "data": [
+        "{\"section\": \"IODIAG_LASER\", \"measurements\": [{\"parameter\": \"Analog Power Demand\", \"value\": 0.0, \"unit\": \"%\"}, {\"parameter\": \"Digital Power Demand\", \"value\": 0.0, \"unit\": \"%\"}, {\"parameter\": \"Power Demand\", \"value\": 0.0, \"unit\": \"Watt\"}, {\"parameter\": \"Optics 1 Temperature (Th1)\", \"value\": 27.2, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Optics 2 Temperature (Th2)\", \"value\": 27.6, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Pump Temperature (Th4)\", \"value\": 27.3, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Inlet Water Temperature (Th5)\", \"value\": 26.5, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Ambient Temperature (Th6)\", \"value\": 29.0, \"unit\": \"\\u00b0C\"}, {\"parameter\": \"Humidity\", \"value\": 31.0, \"unit\": \"%\"}]}"
+    ]
+}
