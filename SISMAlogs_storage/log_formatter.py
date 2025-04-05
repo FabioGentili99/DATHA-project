@@ -1,6 +1,8 @@
 import json
 import re
 
+
+
 def format_log(raw_message):
     """
     Converts raw log messages into a standardized JSON format.
@@ -26,12 +28,13 @@ def format_log(raw_message):
     measurement_pattern_12 = re.compile(r"([\w\s\/.]+)\s*[:=]\s*([\D]+|[\d.-]+)\s*([^\d\s]*)")
     measurement_pattern_13 = re.compile(r"([\w\s\/%<]+)\s*[:=]\s*([\D]+|[\d.-]+)\s*([^\d\s]*)")
     measurement_pattern_14 = re.compile(r"([\w\s\/%<\(\)-]+)\s*[:=]\s*([\d.-]+)\s*([^\d\s]*)")
+    measurement_pattern_15 = re.compile(r"(.*)")
     measurement_patterns = [
         measurement_pattern_1, measurement_pattern_2, measurement_pattern_3,
         measurement_pattern_4, measurement_pattern_5, measurement_pattern_6,
         measurement_pattern_7, measurement_pattern_8, measurement_pattern_9,
         measurement_pattern_10, measurement_pattern_11, measurement_pattern_12,
-        measurement_pattern_13, measurement_pattern_14
+        measurement_pattern_13, measurement_pattern_14, measurement_pattern_15
     ]
 
 
@@ -74,15 +77,30 @@ def format_log(raw_message):
                     x = 12;
                 case "IODIAG_LASER":
                     x = 13;
+                case _:
+                    x = 14;
             
             # Extract measurements
+            if (x == 14):
+                data = {
+                    "section": section,
+                    "message": values
+                }
+                # Convert to JSON format
+                json_output = json.dumps(data)
+                #print(json_output)
+                parsed_data.append(json_output)
+                ts = timestamp
+                continue
+
+
             measurements = []
             for item in re.split(r' - ', values):
-                print(item + "\n")
+                #print(item + "\n")
                 item = item.strip()
 
                 measurement_match = measurement_patterns[x].search(item)
-                print(measurement_match)
+                #print(measurement_match)
 
                 if measurement_match:
                     key, value, unit = measurement_match.groups()
@@ -109,4 +127,6 @@ def format_log(raw_message):
         "timestamp":  ts,
         "data": parsed_data
     }
-    return json.dumps(json_data, indent=4)
+    
+    #return json.dumps(json_data)
+    return json_data

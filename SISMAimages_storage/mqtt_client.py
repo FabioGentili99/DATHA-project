@@ -1,5 +1,5 @@
 import paho.mqtt.client as mqtt
-from config import MQTT_BROKER, MQTT_PORT, MQTT_TOPIC, CLIENT_ID, MQTT_USERNAME, MQTT_PASSWORD
+from config import MQTT_BROKER, MQTT_PORT, MQTT_TOPIC, CLIENT_ID
 from db_factory import get_db
 import json
 
@@ -20,12 +20,18 @@ def on_message(client, userdata, msg):
     """Callback when a message is received"""
     try:
         # Parse MQTT message
-        log_entry = json.loads(msg.payload.decode("utf-8"))
-       
+        log_entry = json.loads(msg.payload.decode())
+        print (type(log_entry))
         # Store in MongoDB
-        image_storage.store_log(log_entry)
+        image_storage.write_data(log_entry)
+        
+        
+        """
+        with open("log.txt", "a") as f:
+            f.write(json.dumps(log_entry) + "\n")
+        """
+        
 
-        print(f"Stored log from topic {msg.topic}: {log_entry['jobId']}")
     
     except json.JSONDecodeError:
         print(f"Received non-JSON message on {msg.topic}: {msg.payload.decode('utf-8')}")

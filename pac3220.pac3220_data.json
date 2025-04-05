@@ -1,0 +1,8366 @@
+[{
+  "_id": {
+    "$oid": "67e347f27ff2ae452c31c114"
+  },
+  "Voltage_L1-N": {
+    "value": 225.82144165039062,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.40113830566406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.990966796875,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0532531738281,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.8054504394531,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.233154296875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.351081848144531,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.206130504608154,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.903123140335083,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1287.911376953125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 984.7681274414062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 665.3929443359375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 958.0673217773438,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 283.5699768066406,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 560.86572265625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.948894500732422,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4858291149139404,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.278107166290283,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 27.147733688354492,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 22.14012336730957,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 56.709617614746094,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02010726928711,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:18:58.982375"
+},
+{
+  "_id": {
+    "$oid": "67e347fb7ff2ae452c31c116"
+  },
+  "Voltage_L1-N": {
+    "value": 225.7059783935547,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.60568237304688,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.22320556640625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.5010681152344,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.7314147949219,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.19921875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.921893119812012,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.163080215454102,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.000582695007324,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1336.5577392578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1632.4835205078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2308.2890625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 686.8028564453125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1168.7509765625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1070.035888671875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8114097118377686,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.0889337062835693,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.133697986602783,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.48197555541992,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 33.26974868774414,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.34011840820312,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01948547363281,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:19:07.057822"
+},
+{
+  "_id": {
+    "$oid": "67e348017ff2ae452c31c118"
+  },
+  "Voltage_L1-N": {
+    "value": 225.5608673095703,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.3287811279297,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.01564025878906,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.05877685546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.3177795410156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.8377990722656,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.0747599601745605,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.2122273445129395,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 4.339127540588379,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1416.60986328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1089.667236328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 993.7750244140625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 995.4600830078125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 348.7939453125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1419.179931640625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8938708305358887,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.511044502258301,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.1830058097839355,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 33.24535369873047,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 17.44695281982422,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 61.598785400390625,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01356887817383,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:19:13.874513"
+},
+{
+  "_id": {
+    "$oid": "67e34833a2eaf588bf0a345a"
+  },
+  "Voltage_L1-N": {
+    "value": 225.183837890625,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.9550018310547,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.75796508789062,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.5243225097656,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.72247314453125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.4746398925781,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.858003616333008,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.0990190505981445,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.930666446685791,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1302.644775390625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 988.1167602539062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 670.5560913085938,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 971.5751953125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1283.404052734375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1308.049072265625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.98016619682312,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4524972438812256,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.277271270751953,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 32.176326751708984,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 53.3396110534668,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 75.80599975585938,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.014347076416016,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:03.868321"
+},
+{
+  "_id": {
+    "$oid": "67e3483aa2eaf588bf0a345c"
+  },
+  "Voltage_L1-N": {
+    "value": 225.2830352783203,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.83743286132812,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.6949920654297,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.445068359375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.8312683105469,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.507568359375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.410767555236816,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.463313102722168,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.307661056518555,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1669.3701171875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1004.2620239257812,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 687.8046875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1001.9232788085938,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 263.2803649902344,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 542.1365966796875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.904876470565796,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5032265186309814,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.137733459472656,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.089080810546875,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.83692169189453,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 68.59539794921875,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01014709472656,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:10.797653"
+},
+{
+  "_id": {
+    "$oid": "67e34842a2eaf588bf0a345e"
+  },
+  "Voltage_L1-N": {
+    "value": 225.4021453857422,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.86932373046875,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.96363830566406,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0450439453125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.15997314453125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.8526611328125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.782732963562012,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.090681076049805,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9415524005889893,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1303.65771484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 986.7098388671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2176.615234375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 707.15380859375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1079.7633056640625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1144.35595703125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.797309160232544,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.016693115234375,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.154409885406494,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 44.03549575805664,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 40.15790557861328,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.78252410888672,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01193618774414,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:18.454050"
+},
+{
+  "_id": {
+    "$oid": "67e34849a2eaf588bf0a3460"
+  },
+  "Voltage_L1-N": {
+    "value": 225.54367065429688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.78073120117188,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.86746215820312,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9942321777344,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.14166259765625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.9017639160156,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.325080394744873,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.039234638214111,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.982717752456665,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1329.4659423828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 999.5116577148438,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 683.4308471679688,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1005.4652099609375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 262.3000183105469,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 506.3533935546875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9591450691223145,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.550546646118164,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.176731586456299,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.10356521606445,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.92532730102539,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 16.084253311157227,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.012168884277344,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:25.381664"
+},
+{
+  "_id": {
+    "$oid": "67e34850a2eaf588bf0a3462"
+  },
+  "Voltage_L1-N": {
+    "value": 225.74240112304688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.53114318847656,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.34291076660156,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.3822326660156,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.7750549316406,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.4396057128906,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.077943325042725,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.806255340576172,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 7.689176559448242,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 920.5560302734375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1400.812255859375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1762.796630859375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 257.6346435546875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1487.7529296875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 967.6355590820312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.822964906692505,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.388017416000366,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.1861395835876465,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.889801025390625,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.037351608276367,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 104.32467651367188,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01388168334961,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:32.222352"
+},
+{
+  "_id": {
+    "$oid": "67e34857a2eaf588bf0a3464"
+  },
+  "Voltage_L1-N": {
+    "value": 225.65005493164062,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.85984802246094,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.1002960205078,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9200439453125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.2353515625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.2698059082031,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.940514326095581,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.403114318847656,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 6.9119648933410645,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 706.000244140625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 779.5889892578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 419.17828369140625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 622.751220703125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 420.4766845703125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 204.18380737304688,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.800133228302002,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.3604607582092285,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.128215312957764,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 41.542232513427734,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.36225509643555,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 105.38050079345703,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01045608520508,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:39.182059"
+},
+{
+  "_id": {
+    "$oid": "67e3485ea2eaf588bf0a3466"
+  },
+  "Voltage_L1-N": {
+    "value": 225.57644653320312,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.39820861816406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.00546264648438,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.1430969238281,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.3480529785156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.83807373046875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.14658260345459,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.425032615661621,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 6.907869338989258,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1502.483642578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1307.84375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1581.2109375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 904.8522338867188,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1464.81298828125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1459.630859375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9726715087890625,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5485315322875977,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.33677864074707,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 22.322385787963867,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.0572509765625,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 64.26121520996094,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01294708251953,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:46.063002"
+},
+{
+  "_id": {
+    "$oid": "67e34865a2eaf588bf0a3468"
+  },
+  "Voltage_L1-N": {
+    "value": 225.3730010986328,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.7278289794922,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.677490234375,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.4264221191406,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.2987060546875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.6221618652344,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.088015079498291,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.235948085784912,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.91226577758789,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1597.235595703125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 975.0133666992188,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 662.1051635742188,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 962.2095336914062,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 274.12286376953125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 510.8351135253906,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9825613498687744,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.602046489715576,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.249589920043945,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.60459518432617,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 33.29931640625,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 73.30693817138672,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.011390686035156,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:20:53.020929"
+},
+{
+  "_id": {
+    "$oid": "67e3486da2eaf588bf0a346a"
+  },
+  "Voltage_L1-N": {
+    "value": 225.4653778076172,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.3164825439453,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.9672393798828,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9487609863281,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.1422119140625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.7430114746094,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.3706583976745605,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.439976692199707,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.389780044555664,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1340.24853515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1214.93896484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 658.5455322265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 960.855712890625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 279.8333435058594,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 502.9347229003906,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.071223258972168,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5360801219940186,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.385026454925537,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 27.864351272583008,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 22.211698532104492,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 64.62250518798828,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.011234283447266,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:01.272348"
+},
+{
+  "_id": {
+    "$oid": "67e34874a2eaf588bf0a346c"
+  },
+  "Voltage_L1-N": {
+    "value": 225.3953399658203,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.2478790283203,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.8770751953125,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9045715332031,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.14971923828125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.574462890625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.5420684814453125,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.003906726837158,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.032829284667969,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1454.365966796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1410.7945556640625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1837.318359375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 750.4412841796875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 859.60009765625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1305.6829833984375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9882447719573975,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.550210952758789,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.330451965332031,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 25.287548065185547,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 23.5695743560791,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 65.994140625,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01637268066406,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:08.101228"
+},
+{
+  "_id": {
+    "$oid": "67e3487aa2eaf588bf0a346e"
+  },
+  "Voltage_L1-N": {
+    "value": 225.40879821777344,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.552001953125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.66551208496094,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.2774963378906,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.04351806640625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.7452697753906,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.20701265335083,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.752537250518799,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 7.5547332763671875,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1399.6864013671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1386.412109375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 669.11865234375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 974.09619140625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 276.81866455078125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 516.57861328125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.026766300201416,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.482064962387085,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.141765117645264,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.024696350097656,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.620315551757812,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 71.23934173583984,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0267219543457,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:14.982313"
+},
+{
+  "_id": {
+    "$oid": "67e34881a2eaf588bf0a3470"
+  },
+  "Voltage_L1-N": {
+    "value": 225.38839721679688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.15353393554688,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.8348388671875,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.8310241699219,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0647888183594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.6758728027344,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.7497334480285645,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.087707996368408,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.931431293487549,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1296.1260986328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1251.667724609375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1475.6627197265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 850.781494140625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 606.594482421875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 757.360107421875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.022767543792725,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.520876884460449,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.379313945770264,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 30.31080436706543,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.126577377319336,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 15.052967071533203,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02707290649414,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:21.821146"
+},
+{
+  "_id": {
+    "$oid": "67e34888a2eaf588bf0a3472"
+  },
+  "Voltage_L1-N": {
+    "value": 225.05615234375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.05638122558594,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.48435974121094,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.89703369140625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.0533447265625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.0999755859375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.017684459686279,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.849599838256836,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 9.051326751708984,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1531.1904296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1532.8123779296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2068.411376953125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 687.5735473632812,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1014.6016845703125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 513.9019775390625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9401299953460693,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5562500953674316,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.234696388244629,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 42.75305938720703,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.703857421875,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 74.57103729248047,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.016117095947266,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:28.676326"
+},
+{
+  "_id": {
+    "$oid": "67e34891a2eaf588bf0a3474"
+  },
+  "Voltage_L1-N": {
+    "value": 225.058349609375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.80506896972656,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.51425170898438,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.2467346191406,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.8880615234375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.23931884765625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.696078300476074,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.22794246673584,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 4.134220600128174,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1099.313232421875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1821.11572265625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2453.220947265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 499.131591796875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 750.8905639648438,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 428.9288330078125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.045963287353516,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5736382007598877,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.385298728942871,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.629249572753906,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.74357795715332,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 104.386962890625,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02178192138672,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:37.022421"
+},
+{
+  "_id": {
+    "$oid": "67e34897a2eaf588bf0a3476"
+  },
+  "Voltage_L1-N": {
+    "value": 225.3331298828125,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.9666290283203,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.8437042236328,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.567138671875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.5570373535156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.3935546875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.0757296085357666,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.204047918319702,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.7791023254394531,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 692.629150390625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1311.0040283203125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1620.914306640625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 447.8137512207031,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 929.1008911132812,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 583.5003662109375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.063603401184082,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5839643478393555,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.456218242645264,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 28.393878936767578,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.29926109313965,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 11.658526420593262,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02096176147461,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:43.902674"
+},
+{
+  "_id": {
+    "$oid": "67e3489ea2eaf588bf0a3478"
+  },
+  "Voltage_L1-N": {
+    "value": 225.18914794921875,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.00318908691406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.4867401123047,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.77679443359375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.82244873046875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.2586669921875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.774405479431152,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.236514091491699,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 7.504306793212891,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 922.030517578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1345.404296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1715.18408203125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 405.4781494140625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 961.0590209960938,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 208.86146545410156,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.934074640274048,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5646204948425293,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.297291278839111,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 39.675113677978516,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 34.48310089111328,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 64.09183502197266,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02228546142578,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:50.744137"
+},
+{
+  "_id": {
+    "$oid": "67e348a5a2eaf588bf0a347a"
+  },
+  "Voltage_L1-N": {
+    "value": 225.52804565429688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.3636932373047,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.14036560058594,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.051025390625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4835205078125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.0073547363281,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.765466213226318,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.124260902404785,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9600491523742676,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1315.486083984375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 995.428955078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 678.3220825195312,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 995.713134765625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 521.3392333984375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 792.9729614257812,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.048614025115967,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.8637518882751465,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.39453125,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 24.94536590576172,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 16.038087844848633,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 15.208099365234375,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.020263671875,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:21:57.570865"
+},
+{
+  "_id": {
+    "$oid": "67e348aca2eaf588bf0a347c"
+  },
+  "Voltage_L1-N": {
+    "value": 225.52191162109375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.2463836669922,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.09268188476562,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9412536621094,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.3073425292969,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.8801574707031,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.257828235626221,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.671151638031006,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 9.841292381286621,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1636.3438720703125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1575.9686279296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2182.94921875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 743.6947021484375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1040.6639404296875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1158.84814453125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9645612239837646,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5137593746185303,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.277550220489502,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 21.716772079467773,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 19.00888442993164,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 56.94383239746094,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.026641845703125,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:04.462940"
+},
+{
+  "_id": {
+    "$oid": "67e348b3a2eaf588bf0a347e"
+  },
+  "Voltage_L1-N": {
+    "value": 225.61268615722656,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.72633361816406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.80328369140625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.07830810546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0580749511719,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.97955322265625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.990139007568359,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.804567813873291,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 5.315938949584961,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1281.479248046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 979.9898681640625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 661.6582641601562,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 955.0643920898438,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 280.4190979003906,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 501.7634582519531,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.083794593811035,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.6552672386169434,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.402932643890381,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 39.97738265991211,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.45117950439453,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 70.94277954101562,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01831817626953,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:11.301792"
+},
+{
+  "_id": {
+    "$oid": "67e348baa2eaf588bf0a3480"
+  },
+  "Voltage_L1-N": {
+    "value": 225.4642333984375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.17822265625,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.86940002441406,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.8355712890625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0479431152344,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.6120910644531,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.526649475097656,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.099933624267578,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.468708038330078,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1516.56103515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1469.348876953125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1937.516357421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 736.7565307617188,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1304.695556640625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1282.4542236328125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.008220672607422,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4655933380126953,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.34693717956543,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 31.828784942626953,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 36.279808044433594,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 76.22583770751953,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02185821533203,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:18.141975"
+},
+{
+  "_id": {
+    "$oid": "67e348c0a2eaf588bf0a3482"
+  },
+  "Voltage_L1-N": {
+    "value": 225.4052734375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.7496795654297,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.81204223632812,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.4118957519531,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.4405822753906,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.8058166503906,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.299904823303223,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.528366565704346,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 7.145752906799316,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1420.361083984375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1333.336181640625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1636.0230712890625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 982.44384765625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 269.07391357421875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 525.340087890625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.989738941192627,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4721226692199707,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.276713848114014,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 46.85550308227539,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.042964935302734,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 74.8973388671875,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0200080871582,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:24.982515"
+},
+{
+  "_id": {
+    "$oid": "67e348c7a2eaf588bf0a3484"
+  },
+  "Voltage_L1-N": {
+    "value": 225.5570068359375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.31643676757812,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.0284881591797,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.09967041015625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.1475830078125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.8386535644531,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.789922714233398,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.101038455963135,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9293789863586426,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1305.656494140625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1304.3800048828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1606.30615234375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 811.2923583984375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 693.9364624023438,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 821.5599975585938,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.005245685577393,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.477954387664795,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.344468593597412,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 35.65322494506836,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 19.657489776611328,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 17.146320343017578,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.022247314453125,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:31.836122"
+},
+{
+  "_id": {
+    "$oid": "67e348cea2eaf588bf0a3486"
+  },
+  "Voltage_L1-N": {
+    "value": 225.60952758789062,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.43946838378906,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.154541015625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.8810729980469,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.7803955078125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.208740234375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.286400318145752,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.005420684814453,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 10.532427787780762,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1509.1917724609375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1486.873291015625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1966.0654296875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 724.3804931640625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 931.5111694335938,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 988.4802856445312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8560309410095215,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4069645404815674,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.187563419342041,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 47.175804138183594,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.3381233215332,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 75.0654525756836,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.015594482421875,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:38.623251"
+},
+{
+  "_id": {
+    "$oid": "67e348d5a2eaf588bf0a3488"
+  },
+  "Voltage_L1-N": {
+    "value": 225.95851135253906,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.6520538330078,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.48831176757812,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.7087097167969,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.9255676269531,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.78302001953125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.23142147064209,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.639920949935913,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.788232445716858,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 701.9384765625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 776.2132568359375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 410.501220703125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 624.024658203125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 416.7908935546875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 332.64825439453125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.944061279296875,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.648085117340088,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.329350471496582,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.46281433105469,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 26.774826049804688,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 11.263062477111816,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.013492584228516,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:45.422823"
+},
+{
+  "_id": {
+    "$oid": "67e348dca2eaf588bf0a348a"
+  },
+  "Voltage_L1-N": {
+    "value": 226.07521057128906,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.7955322265625,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.59320068359375,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.9197998046875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.1567687988281,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.9385986328125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.0876717567443848,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.397141456604004,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.733102798461914,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 987.0001831054688,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1544.79345703125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2004.046875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 355.0088806152344,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1313.552001953125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 839.9597778320312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.963057279586792,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.096257448196411,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.238073348999023,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.27547836303711,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.82947540283203,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 105.94892883300781,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.015438079833984,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:52.261635"
+},
+{
+  "_id": {
+    "$oid": "67e348e3a2eaf588bf0a348c"
+  },
+  "Voltage_L1-N": {
+    "value": 225.76075744628906,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.0473175048828,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.01803588867188,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0440979003906,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.7919616699219,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.4169616699219,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.509376049041748,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.131848335266113,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 6.150791645050049,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1470.195556640625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1240.0755615234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 688.0296630859375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1025.5478515625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 257.9493408203125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 561.1234741210938,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.020692825317383,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.512402296066284,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.3624043464660645,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 25.04187774658203,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.254226684570312,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 60.84331130981445,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01948547363281,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:22:59.102806"
+},
+{
+  "_id": {
+    "$oid": "67e348e9a2eaf588bf0a348e"
+  },
+  "Voltage_L1-N": {
+    "value": 225.64553833007812,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.52587890625,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.13766479492188,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.37420654296875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4819641113281,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.9511413574219,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.847470760345459,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.146645545959473,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9985060691833496,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1319.00732421875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1435.2357177734375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1873.3734130859375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 783.5387573242188,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 843.3516845703125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 969.431396484375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.969068765640259,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4899301528930664,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.36513614654541,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 30.75162124633789,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.3372802734375,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 18.859132766723633,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0140380859375,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:05.902786"
+},
+{
+  "_id": {
+    "$oid": "67e348f1a2eaf588bf0a3490"
+  },
+  "Voltage_L1-N": {
+    "value": 225.6400909423828,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.69554138183594,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.9480438232422,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.47125244140625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.9248352050781,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.1450500488281,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.894386291503906,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.142841339111328,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9784083366394043,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1342.1396484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1003.076904296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 690.4443359375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1004.2911376953125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1236.359375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1276.0576171875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.913719654083252,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.3565561771392822,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.22398567199707,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 32.49901580810547,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 53.08330154418945,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 67.12663269042969,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02337646484375,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:13.822971"
+},
+{
+  "_id": {
+    "$oid": "67e348f8a2eaf588bf0a3492"
+  },
+  "Voltage_L1-N": {
+    "value": 225.6913299560547,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.22186279296875,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.9956817626953,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.16571044921875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0394592285156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.1585693359375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.34988260269165,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.47899055480957,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.377580642700195,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1658.5804443359375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1800.728759765625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1071.276123046875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 958.9112548828125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 384.17047119140625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 626.9429321289062,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9744713306427,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.511044502258301,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.35365104675293,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.98455810546875,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.555438995361328,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.50431823730469,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02329635620117,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:20.673833"
+},
+{
+  "_id": {
+    "$oid": "67e348ffa2eaf588bf0a3494"
+  },
+  "Voltage_L1-N": {
+    "value": 225.983642578125,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.53221130371094,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.31680297851562,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 402.0733642578125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.1434020996094,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.56793212890625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.971552848815918,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.171250343322754,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.013127088546753,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1362.5006103515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1015.0843505859375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 698.288818359375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1010.8728637695312,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 256.8649597167969,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 548.677734375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.7796881198883057,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 2.996471881866455,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.086421012878418,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 48.723899841308594,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 49.108665466308594,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 63.032047271728516,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.028160095214844,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:27.553601"
+},
+{
+  "_id": {
+    "$oid": "67e34906a2eaf588bf0a3496"
+  },
+  "Voltage_L1-N": {
+    "value": 225.96055603027344,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.77845764160156,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.47610473632812,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.82373046875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.075927734375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.6880798339844,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.164183616638184,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.497640609741211,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.432918548583984,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1715.358154296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1808.147705078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2620.845947265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 537.5108642578125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 592.9298706054688,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 783.2321166992188,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.0019707679748535,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.905792236328125,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.3752288818359375,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 36.5418586730957,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 27.500465393066406,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 65.9762191772461,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0340690612793,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:34.448075"
+},
+{
+  "_id": {
+    "$oid": "67e3490da2eaf588bf0a3498"
+  },
+  "Voltage_L1-N": {
+    "value": 225.77310180664062,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.1419219970703,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.12733459472656,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0915832519531,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.03948974609375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.2678527832031,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.971662521362305,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.1773786544799805,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.0062718391418457,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1347.983154296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1009.15234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 692.2734985351562,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 998.4205322265625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 259.4996337890625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 542.3035888671875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.033569812774658,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.483433961868286,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.470107555389404,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 49.01803970336914,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 43.55195236206055,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 79.85621643066406,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.03129196166992,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:41.302800"
+},
+{
+  "_id": {
+    "$oid": "67e34914a2eaf588bf0a349a"
+  },
+  "Voltage_L1-N": {
+    "value": 225.95823669433594,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.5933380126953,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.54603576660156,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.62530517578125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.0012512207031,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.9043884277344,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.0896787643432617,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.2058844566345215,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.773214340209961,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1075.5992431640625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1752.39990234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2344.6396484375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 248.89715576171875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1528.911376953125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1007.8699951171875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.900294303894043,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.667963981628418,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.361310958862305,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 74.15312194824219,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 54.77134704589844,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 86.10081481933594,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0315055847168,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:48.184248"
+},
+{
+  "_id": {
+    "$oid": "67e3491ba2eaf588bf0a349c"
+  },
+  "Voltage_L1-N": {
+    "value": 225.95928955078125,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.43746948242188,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.18260192871094,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.9678649902344,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.8699035644531,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.60955810546875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.85921049118042,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.537517547607422,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.8212761878967285,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 702.461669921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 776.6382446289062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 418.0649108886719,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 622.4420776367188,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 416.7425842285156,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 201.6795654296875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.95432448387146,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.576639175415039,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.313074588775635,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 41.00803756713867,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.058109283447266,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 82.01044464111328,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.028900146484375,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:23:55.028534"
+},
+{
+  "_id": {
+    "$oid": "67e34921a2eaf588bf0a349e"
+  },
+  "Voltage_L1-N": {
+    "value": 225.95933532714844,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.85240173339844,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.32725524902344,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.99169921875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.9988708496094,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.47576904296875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.343743801116943,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.350665092468262,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.231293201446533,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1433.09814453125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1052.099853515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 740.8023071289062,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 713.088134765625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1120.5535888671875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1205.793701171875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.049497604370117,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.177582025527954,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.280614376068115,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 34.152976989746094,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 42.778228759765625,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 52.58438491821289,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01995086669922,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:01.854898"
+},
+{
+  "_id": {
+    "$oid": "67e34928a2eaf588bf0a34a0"
+  },
+  "Voltage_L1-N": {
+    "value": 225.61810302734375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4195556640625,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.10531616210938,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.237060546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4579772949219,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.07373046875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.64255952835083,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.466475963592529,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.482110023498535,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1724.417236328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1799.992919921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1242.37255859375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 929.5300903320312,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 460.51251220703125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 697.3672485351562,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.027358531951904,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5008437633514404,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.310032844543457,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 28.579452514648438,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 23.304344177246094,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 62.44004821777344,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.00672149658203,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:08.703946"
+},
+{
+  "_id": {
+    "$oid": "67e3492fa2eaf588bf0a34a2"
+  },
+  "Voltage_L1-N": {
+    "value": 226.0596466064453,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.46864318847656,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.4088134765625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 402.12152099609375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.3109436035156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.94287109375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.850916862487793,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.141641616821289,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.955477237701416,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1343.824951171875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1007.8482666015625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 688.6356201171875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1005.5450439453125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 255.30865478515625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 545.9461669921875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.012977123260498,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.3426766395568848,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.285624027252197,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 47.814640045166016,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 51.41557312011719,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 71.26762390136719,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.005165100097656,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:15.509534"
+},
+{
+  "_id": {
+    "$oid": "67e34936a2eaf588bf0a34a4"
+  },
+  "Voltage_L1-N": {
+    "value": 226.12156677246094,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.89076232910156,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.5964813232422,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 402.00091552734375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.285888671875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.8844299316406,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.794674873352051,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.427757263183594,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.481391906738281,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1733.5179443359375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1793.1854248046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2634.477294921875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 552.0967407226562,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1473.450439453125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 841.241943359375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.011788368225098,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 4.020989418029785,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.4177985191345215,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.9471321105957,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.560394287109375,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 70.72065734863281,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01995086669922,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:22.383755"
+},
+{
+  "_id": {
+    "$oid": "67e3493da2eaf588bf0a34a6"
+  },
+  "Voltage_L1-N": {
+    "value": 226.0371856689453,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.32106018066406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.4223175048828,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.4343566894531,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4255065917969,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.9413757324219,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.9337897300720215,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.175179481506348,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9910144805908203,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1341.3514404296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1009.546875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 686.5338134765625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 972.9989624023438,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 264.3272705078125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 520.5830078125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.994218349456787,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4885637760162354,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.291183948516846,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 45.17671585083008,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 44.30893325805664,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 74.03754425048828,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.020729064941406,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:29.223029"
+},
+{
+  "_id": {
+    "$oid": "67e34944a2eaf588bf0a34a8"
+  },
+  "Voltage_L1-N": {
+    "value": 226.00563049316406,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.8773651123047,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.37335205078125,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 402.0450744628906,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.99798583984375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.4937438964844,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.966616630554199,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.172688961029053,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.0161261558532715,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1348.24853515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1688.96435546875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2423.9873046875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 615.3363647460938,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1280.02197265625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1282.0587158203125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.067121982574463,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.3732070922851562,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.212681770324707,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 46.71076965332031,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 51.09932327270508,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 70.89033508300781,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02753829956055,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:36.106218"
+},
+{
+  "_id": {
+    "$oid": "67e3494aa2eaf588bf0a34aa"
+  },
+  "Voltage_L1-N": {
+    "value": 225.7500457763672,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4647674560547,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.0188446044922,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.73797607421875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.7314758300781,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.2113342285156,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.2567057609558105,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.419341087341309,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.718271017074585,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1351.1866455078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1059.8388671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 852.1192626953125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 983.1163940429688,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 311.9037780761719,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 543.2335205078125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.024249076843262,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4587066173553467,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.308650016784668,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 27.476268768310547,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 22.458019256591797,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 53.3161506652832,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.026817321777344,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:42.984082"
+},
+{
+  "_id": {
+    "$oid": "67e34951a2eaf588bf0a34ac"
+  },
+  "Voltage_L1-N": {
+    "value": 225.76742553710938,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.50274658203125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.43496704101562,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.3195495605469,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.83148193359375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.550537109375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.080066204071045,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.1987667083740234,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.7885608673095703,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 695.4639892578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 772.6270751953125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 410.3682861328125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 353.0346374511719,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1225.958740234375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 792.955078125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8389899730682373,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 2.8955118656158447,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.047730922698975,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 49.64936828613281,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 40.733970642089844,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 45.2901611328125,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02524185180664,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:49.824286"
+},
+{
+  "_id": {
+    "$oid": "67e34958a2eaf588bf0a34ae"
+  },
+  "Voltage_L1-N": {
+    "value": 225.86911010742188,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4561309814453,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.43385314941406,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.39404296875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 394.78729248046875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 395.64874267578125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.828446865081787,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.554203033447266,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 10.680746078491211,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1071.075927734375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1791.72900390625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1250.1787109375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 511.7152404785156,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 718.2561645507812,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 410.56610107421875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.645469903945923,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4341483116149902,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.218337535858154,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 37.960845947265625,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.96072769165039,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 103.66999053955078,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.028045654296875,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:24:56.664365"
+},
+{
+  "_id": {
+    "$oid": "67e3495fa2eaf588bf0a34b0"
+  },
+  "Voltage_L1-N": {
+    "value": 225.32998657226562,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.72998046875,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.68101501464844,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.1021728515625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.3645324707031,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.82562255859375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.880763053894043,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.2105207443237305,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.0505659580230713,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1384.9554443359375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1022.3864135742188,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 714.1134643554688,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1056.4254150390625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 245.0259552001953,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 592.8386840820312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8892757892608643,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.584296941757202,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.302835941314697,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 39.31407165527344,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 49.87804412841797,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 74.44255065917969,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02259826660156,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:03.504447"
+},
+{
+  "_id": {
+    "$oid": "67e34966a2eaf588bf0a34b2"
+  },
+  "Voltage_L1-N": {
+    "value": 223.9956817626953,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.00994873046875,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.58132934570312,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 398.48846435546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.0149841308594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 399.1095886230469,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.767931938171387,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.290781021118164,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.154786109924316,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1619.831298828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1745.3619384765625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2536.796875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 523.3599243164062,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 778.2666625976562,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 888.9281616210938,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.904265880584717,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.7038636207580566,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.255476951599121,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 49.85236740112305,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 51.086063385009766,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 64.15742492675781,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0196418762207,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:10.344188"
+},
+{
+  "_id": {
+    "$oid": "67e3496da2eaf588bf0a34b4"
+  },
+  "Voltage_L1-N": {
+    "value": 224.11892700195312,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 239.6156005859375,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.6354217529297,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 398.3199462890625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 398.61053466796875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 399.5314636230469,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.740495681762695,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.05360746383667,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9680447578430176,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1286.263671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 972.984375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 675.9110107421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 966.1099853515625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 273.60772705078125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 527.5064086914062,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.947988510131836,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.47898268699646,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.304497718811035,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 45.53521728515625,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.009033203125,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 63.47441101074219,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02882385253906,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:17.205369"
+},
+{
+  "_id": {
+    "$oid": "67e34974a2eaf588bf0a34b6"
+  },
+  "Voltage_L1-N": {
+    "value": 224.3229522705078,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.2100372314453,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.94569396972656,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.05096435546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.6210021972656,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 399.98284912109375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.808006286621094,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.074374675750732,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9937572479248047,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1303.376953125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1615.2947998046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2297.918212890625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 644.5816040039062,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1188.3824462890625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1216.5650634765625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.971170663833618,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.187321186065674,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.132544040679932,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 60.3644905090332,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 49.43010330200195,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 70.19771575927734,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.03154754638672,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:24.063129"
+},
+{
+  "_id": {
+    "$oid": "67e3497aa2eaf588bf0a34b8"
+  },
+  "Voltage_L1-N": {
+    "value": 224.55381774902344,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.361328125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.98931884765625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.0239562988281,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.0999450683594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.3178405761719,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.3891401290893555,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.450474739074707,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 4.903907299041748,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1357.147216796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1116.7357177734375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1118.48583984375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 908.7183227539062,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 422.35552978515625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 505.7865905761719,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9564342498779297,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.52629017829895,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.263592720031738,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 31.176212310791016,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 24.444974899291992,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.76881408691406,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.03551483154297,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:30.904901"
+},
+{
+  "_id": {
+    "$oid": "67e34981a2eaf588bf0a34ba"
+  },
+  "Voltage_L1-N": {
+    "value": 224.71131896972656,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.78445434570312,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.37030029296875,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.0306396484375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.3744201660156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.605224609375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.838193416595459,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.994048833847046,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.862997055053711,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1250.430419921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 961.816162109375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 653.8757934570312,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 949.5372924804688,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 964.8902587890625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1010.3038330078125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9831600189208984,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.29472279548645,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.159571647644043,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 53.4078483581543,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 27.26520538330078,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 29.09666633605957,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.03633117675781,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:37.689100"
+},
+{
+  "_id": {
+    "$oid": "67e34988a2eaf588bf0a34bc"
+  },
+  "Voltage_L1-N": {
+    "value": 224.9495391845703,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.8356170654297,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.47500610351562,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.1736145019531,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.4686279296875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.7667541503906,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.504051208496094,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.461459636688232,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.456259727478027,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1687.343505859375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1792.8544921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1560.929443359375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 810.9287109375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 658.67822265625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 783.5855712890625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.993919849395752,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.9264917373657227,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.149528980255127,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.295021057128906,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.77330207824707,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 70.26783752441406,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.033531188964844,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:44.591719"
+},
+{
+  "_id": {
+    "$oid": "67e3498fa2eaf588bf0a34be"
+  },
+  "Voltage_L1-N": {
+    "value": 225.05770874023438,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.5349578857422,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.4778289794922,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.95281982421875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.1996154785156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.63385009765625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.07891583442688,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.1812610626220703,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.7642078399658203,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 693.6260986328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 765.7965698242188,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 403.65875244140625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 616.5685424804688,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 417.6734619140625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 203.1947021484375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.717677354812622,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.9726715087890625,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.421574592590332,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 66.54768371582031,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 46.00104522705078,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 95.56856536865234,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0264778137207,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:51.384830"
+},
+{
+  "_id": {
+    "$oid": "67e34996a2eaf588bf0a34c0"
+  },
+  "Voltage_L1-N": {
+    "value": 226.0832061767578,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.8321075439453,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.82666015625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 402.0305480957031,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.5081481933594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 403.2623291015625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.127347946166992,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.2317752838134766,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.7963333129882812,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1064.0216064453125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1723.9063720703125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2301.830810546875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 268.43572998046875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1481.245361328125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 633.74072265625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8380582332611084,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.399609088897705,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.170447826385498,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 74.36209869384766,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 55.96251678466797,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 104.5641098022461,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02800369262695,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:25:58.264951"
+},
+{
+  "_id": {
+    "$oid": "67e3499da2eaf588bf0a34c2"
+  },
+  "Voltage_L1-N": {
+    "value": 226.17579650878906,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.27700805664062,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.49560546875,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.4967041015625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.34930419921875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 403.2316589355469,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.937929153442383,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.358689308166504,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.276482343673706,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 708.3463134765625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 812.2645263671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 522.8875732421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 611.6781005859375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 383.34564208984375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 204.40646362304688,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.892646074295044,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.344815492630005,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.209567546844482,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.919551849365234,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 28.678428649902344,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 87.17485809326172,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02516555786133,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:05.066871"
+},
+{
+  "_id": {
+    "$oid": "67e349a3a2eaf588bf0a34c4"
+  },
+  "Voltage_L1-N": {
+    "value": 225.86744689941406,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.8351287841797,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.36817932128906,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.84320068359375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.08819580078125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.3186340332031,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.785475730895996,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.101176738739014,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.939800262451172,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1306.461669921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 991.94921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2201.091064453125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 668.999755859375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1111.347412109375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1133.476806640625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9036550521850586,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 2.8905673027038574,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.103015422821045,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 35.642391204833984,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 40.39198684692383,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 48.707122802734375,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01792907714844,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:11.946682"
+},
+{
+  "_id": {
+    "$oid": "67e349aba2eaf588bf0a34c6"
+  },
+  "Voltage_L1-N": {
+    "value": 225.87245178222656,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.20730590820312,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.2503204345703,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.2669677734375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.8948669433594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.5084533691406,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.3381218910217285,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.902096271514893,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 5.448456287384033,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1431.5675048828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1014.218505859375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 695.7347412109375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1034.0626220703125,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 254.44003295898438,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 568.2156982421875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9726715087890625,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.324080228805542,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.171305179595947,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 24.866605758666992,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.957820892333984,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 58.48940658569336,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.018550872802734,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:19.187829"
+},
+{
+  "_id": {
+    "$oid": "67e349b2a2eaf588bf0a34c8"
+  },
+  "Voltage_L1-N": {
+    "value": 225.6371612548828,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.50912475585938,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.17062377929688,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.6292724609375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.9100341796875,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.3489685058594,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.769631862640381,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.085437774658203,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.911803722381592,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1479.287841796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1445.93798828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1896.22607421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 736.0430297851562,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 887.2674560546875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 942.833740234375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.934377431869507,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.2484467029571533,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.209001541137695,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.0194091796875,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 27.30356788635254,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 27.3625545501709,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0134162902832,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:26.024801"
+},
+{
+  "_id": {
+    "$oid": "67e349b8a2eaf588bf0a34ca"
+  },
+  "Voltage_L1-N": {
+    "value": 225.60910034179688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.90028381347656,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.98472595214844,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.71392822265625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.70050048828125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.1627502441406,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.349270820617676,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 5.471209526062012,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 6.993469715118408,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1432.30029296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1320.006103515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1602.013916015625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 980.31103515625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 273.1271667480469,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 518.2116088867188,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.965463161468506,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.370732545852661,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.261075496673584,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 37.246337890625,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 28.906869888305664,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.4325180053711,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.00967788696289,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:32.943979"
+},
+{
+  "_id": {
+    "$oid": "67e349bfa2eaf588bf0a34cc"
+  },
+  "Voltage_L1-N": {
+    "value": 225.71766662597656,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.62742614746094,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.30589294433594,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.4726867675781,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.79864501953125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.1734619140625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.532758712768555,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.994750738143921,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.8204221725463867,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1248.381103515625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1326.61328125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1569.6080322265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 845.969482421875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 672.735595703125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 825.4790649414062,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9458744525909424,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5137593746185303,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.3757734298706055,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 25.999361038208008,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 18.475784301757812,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 14.525115966796875,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.00983428955078,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:39.825101"
+},
+{
+  "_id": {
+    "$oid": "67e349c6a2eaf588bf0a34ce"
+  },
+  "Voltage_L1-N": {
+    "value": 225.909912109375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.70895385742188,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.4221954345703,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.6642761230469,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.6370849609375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.9272155761719,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.0907697677612305,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.968831539154053,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 10.391073226928711,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1508.256591796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1500.4400634765625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1995.271240234375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 715.0289916992188,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 942.945556640625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 995.3750610351562,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9807651042938232,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.47932505607605,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.156704425811768,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.99851608276367,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 33.456119537353516,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 73.63421630859375,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.017459869384766,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:46.627492"
+},
+{
+  "_id": {
+    "$oid": "67e349cda2eaf588bf0a34d0"
+  },
+  "Voltage_L1-N": {
+    "value": 225.69879150390625,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.94427490234375,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.30218505859375,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.63385009765625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.8608093261719,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.3503723144531,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.906142711639404,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.368456840515137,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.898280620574951,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1286.905517578125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 983.1841430664062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 664.4495239257812,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 967.031005859375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 278.95721435546875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 666.8584594726562,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9873476028442383,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.6999993324279785,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.369776248931885,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 37.187835693359375,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.556873321533203,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 18.391551971435547,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01567077636719,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:26:53.468057"
+},
+{
+  "_id": {
+    "$oid": "67e349d4a2eaf588bf0a34d2"
+  },
+  "Voltage_L1-N": {
+    "value": 225.5074462890625,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.26597595214844,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.1456298828125,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.921630859375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4004211425781,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.0229797363281,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.360317707061768,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.379666805267334,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.729963302612305,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 982.559326171875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1536.0926513671875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1997.875732421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 317.1986083984375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1303.0849609375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 822.2542724609375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.996605157852173,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.06063175201416,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.246222496032715,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.1793327331543,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.903379440307617,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 104.4197769165039,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01419448852539,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:00.324989"
+},
+{
+  "_id": {
+    "$oid": "67e349dba2eaf588bf0a34d4"
+  },
+  "Voltage_L1-N": {
+    "value": 225.506591796875,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.71852111816406,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.96734619140625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.4069519042969,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0615234375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.88525390625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.6197779178619385,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.711525917053223,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 5.568270206451416,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 816.040771484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 778.7257080078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 413.8578796386719,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 623.86083984375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 420.7934265136719,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 203.7535858154297,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.990934133529663,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4296326637268066,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.156131267547607,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 40.952579498291016,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 32.410804748535156,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 105.47392272949219,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.015438079833984,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:07.199175"
+},
+{
+  "_id": {
+    "$oid": "67e349e2a2eaf588bf0a34d6"
+  },
+  "Voltage_L1-N": {
+    "value": 225.6462860107422,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.53855895996094,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.2752227783203,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.2315673828125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.8279113769531,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.15313720703125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.684752464294434,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.052725315093994,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.147805213928223,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1562.38623046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1415.5455322265625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1866.640625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 832.5186157226562,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 807.5848388671875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1399.5201416015625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.012382984161377,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.563951253890991,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.346114158630371,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 20.273082733154297,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 17.067089080810547,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 60.38250732421875,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0252799987793,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:14.079368"
+},
+{
+  "_id": {
+    "$oid": "67e349e9a2eaf588bf0a34d8"
+  },
+  "Voltage_L1-N": {
+    "value": 225.4805145263672,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.33499145507812,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.105712890625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0865478515625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.59283447265625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.84906005859375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.146242618560791,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.255673885345459,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.997570514678955,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1332.0472412109375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1003.00927734375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 686.7952880859375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 994.537109375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 262.85345458984375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1247.951416015625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.023360252380371,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.292189121246338,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.249870300292969,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 35.00656509399414,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.78817367553711,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 64.08322143554688,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.025115966796875,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:21.770643"
+},
+{
+  "_id": {
+    "$oid": "67e349f0a2eaf588bf0a34da"
+  },
+  "Voltage_L1-N": {
+    "value": 225.49188232421875,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.23764038085938,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.00076293945312,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.94793701171875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.20855712890625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.919677734375,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.611502647399902,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.479584217071533,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.377241134643555,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1716.20166015625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1800.9954833984375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1031.780029296875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 947.6956787109375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 367.4481506347656,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 608.0047607421875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.904571056365967,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.470062017440796,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.189270973205566,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 35.33687210083008,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 27.571443557739258,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 67.51241302490234,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01594543457031,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:28.668187"
+},
+{
+  "_id": {
+    "$oid": "67e349f7a2eaf588bf0a34dc"
+  },
+  "Voltage_L1-N": {
+    "value": 225.53118896484375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.0247802734375,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.01708984375,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.7495422363281,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.7074279785156,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.1324462890625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.966435432434082,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.165012359619141,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.015192985534668,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1345.8466796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1010.8963623046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 699.40576171875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1001.4746704101562,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 255.33531188964844,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 544.5545043945312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.0055437088012695,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.094717025756836,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.20928430557251,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 42.36203384399414,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 50.34362030029297,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 63.20289993286133,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01119613647461,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:35.504225"
+},
+{
+  "_id": {
+    "$oid": "67e349fea2eaf588bf0a34de"
+  },
+  "Voltage_L1-N": {
+    "value": 225.6642303466797,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.48423767089844,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.14939880371094,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0157165527344,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.44195556640625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.0302429199219,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.125456809997559,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.5196051597595215,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.527615547180176,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1745.481201171875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1798.12158203125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2637.80078125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 552.4605102539062,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1474.9993896484375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 748.0847778320312,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9274024963378906,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.856649160385132,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.235259532928467,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.80650329589844,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.1811637878418,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 73.66386413574219,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02033996582031,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:42.345533"
+},
+{
+  "_id": {
+    "$oid": "67e34a05a2eaf588bf0a34e0"
+  },
+  "Voltage_L1-N": {
+    "value": 225.61721801757812,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.89596557617188,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.89410400390625,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.6075439453125,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.6805725097656,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.89892578125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.358150959014893,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.177677631378174,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.0321860313415527,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1347.349365234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1008.56591796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 694.7950439453125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1001.7666015625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 267.0065612792969,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 527.6803588867188,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.949497938156128,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4486968517303467,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.2321624755859375,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 36.603118896484375,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 45.06657409667969,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 76.73314666748047,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01621627807617,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:49.186854"
+},
+{
+  "_id": {
+    "$oid": "67e34a0da2eaf588bf0a34e2"
+  },
+  "Voltage_L1-N": {
+    "value": 225.5657196044922,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4281463623047,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.0514373779297,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.04217529296875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.27056884765625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.7178955078125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.922452926635742,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.161002159118652,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.015547752380371,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1696.6522216796875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1744.2474365234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1861.8218994140625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 790.1232299804688,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 820.1721801757812,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 532.0079345703125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9792675971984863,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.577305793762207,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.231598377227783,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 50.24502944946289,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 37.45940017700195,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 40.208900451660156,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02119827270508,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:27:57.462500"
+},
+{
+  "_id": {
+    "$oid": "67e34a14a2eaf588bf0a34e4"
+  },
+  "Voltage_L1-N": {
+    "value": 225.58358764648438,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4315643310547,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.40231323242188,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.8316345214844,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.5256652832031,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.2041015625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.6233248710632324,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.661235332489014,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 5.554422855377197,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1105.9420166015625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1823.42626953125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2461.63671875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 208.7351837158203,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1637.2509765625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1078.6387939453125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9876468181610107,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.658201217651367,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.378769397735596,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 43.09536361694336,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 27.870338439941406,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 92.67356872558594,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01730728149414,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:04.345405"
+},
+{
+  "_id": {
+    "$oid": "67e34a1ba2eaf588bf0a34e6"
+  },
+  "Voltage_L1-N": {
+    "value": 225.9257354736328,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.2166290283203,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.4210968017578,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.0560607910156,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.4503479003906,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.7223815917969,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 4.362794876098633,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.409738540649414,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.7869371175765991,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 698.0455932617188,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 774.952880859375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 410.1070861816406,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 623.5350952148438,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 417.4583435058594,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 201.5556182861328,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.921022891998291,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.525275707244873,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.279778957366943,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.20555114746094,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.281951904296875,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 74.2564468383789,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.014347076416016,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:11.159843"
+},
+{
+  "_id": {
+    "$oid": "67e34a22a2eaf588bf0a34e8"
+  },
+  "Voltage_L1-N": {
+    "value": 226.01524353027344,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.89630126953125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.5993194580078,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.9561462402344,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 402.3459777832031,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.8071594238281,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.525659084320068,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.52774715423584,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 4.114509582519531,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1473.5078125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1093.84423828125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 943.6622314453125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 587.463134765625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1469.791259765625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1471.017333984375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9618539810180664,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4752111434936523,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.290350437164307,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 28.538169860839844,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.77297592163086,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 65.47589111328125,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02633285522461,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:18.038743"
+},
+{
+  "_id": {
+    "$oid": "67e34a28a2eaf588bf0a34ea"
+  },
+  "Voltage_L1-N": {
+    "value": 225.7107391357422,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.25733947753906,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.13076782226562,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.1488037109375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0579833984375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.3628845214844,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.1664323806762695,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.078260898590088,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 10.363801956176758,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1617.8724365234375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 967.845458984375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 650.495849609375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 956.8160400390625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 285.29205322265625,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 499.3963928222656,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.884368658065796,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.577639102935791,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.19154691696167,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 38.952545166015625,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 29.939088821411133,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 69.6679916381836,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02220916748047,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:24.865936"
+},
+{
+  "_id": {
+    "$oid": "67e34a2fa2eaf588bf0a34ec"
+  },
+  "Voltage_L1-N": {
+    "value": 225.65806579589844,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.4315185546875,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.15174865722656,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.30462646484375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.6985778808594,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.9652404785156,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.577035903930664,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.006917953491211,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.850238800048828,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1308.3055419921875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 991.6384887695312,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 672.859619140625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 980.2802734375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 270.9570617675781,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1301.597412109375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.968167781829834,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4163990020751953,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.370594501495361,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 22.31172752380371,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 22.162078857421875,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 76.81949615478516,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.025535583496094,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:31.746054"
+},
+{
+  "_id": {
+    "$oid": "67e34a38a2eaf588bf0a34ee"
+  },
+  "Voltage_L1-N": {
+    "value": 225.49395751953125,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.1938018798828,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 229.0825653076172,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.86077880859375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.2392578125,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 402.0291748046875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.33360481262207,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.461693286895752,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 3.478844165802002,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1332.6795654296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1025.910400390625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 671.0118408203125,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 970.2172241210938,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 275.3222351074219,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 702.2424926757812,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.053617000579834,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4566380977630615,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.26499080657959,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 32.58076477050781,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 33.39920425415039,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 68.33722686767578,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.023841857910156,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:40.189229"
+},
+{
+  "_id": {
+    "$oid": "67e34a3fa2eaf588bf0a34f0"
+  },
+  "Voltage_L1-N": {
+    "value": 221.70742797851562,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 237.3203125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 225.2682342529297,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 395.1654052734375,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 395.63079833984375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 396.0645446777344,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.068382263183594,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.649508953094482,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 9.684358596801758,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1295.335693359375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 982.7255249023438,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 676.21435546875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 979.0646362304688,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 275.9130554199219,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 529.1549072265625,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.81609845161438,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.3348214626312256,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 3.9915311336517334,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 47.49013900756836,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.375274658203125,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 76.66442108154297,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.0204963684082,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:47.026069"
+},
+{
+  "_id": {
+    "$oid": "67e34a45a2eaf588bf0a34f2"
+  },
+  "Voltage_L1-N": {
+    "value": 225.5452880859375,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 241.27687072753906,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.9374542236328,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.30047607421875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.3319396972656,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.7680358886719,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.7572407722473145,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.0860161781311035,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.836703300476074,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1256.6917724609375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 968.2611694335938,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 649.44775390625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 961.6961669921875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 283.4720764160156,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1416.5736083984375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.846435308456421,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.497096061706543,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.222009658813477,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 32.96873092651367,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 19.294958114624023,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 16.841527938842773,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02119827270508,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:28:53.797713"
+},
+{
+  "_id": {
+    "$oid": "67e34a4ca2eaf588bf0a34f4"
+  },
+  "Voltage_L1-N": {
+    "value": 224.11691284179688,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 239.91062927246094,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.8219757080078,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 398.53814697265625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.1797790527344,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 399.5885925292969,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.685568809509277,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.098977565765381,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 10.703706741333008,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1596.7625732421875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1702.080810546875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2438.0302734375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 559.2279663085938,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 267.6080627441406,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 540.5756225585938,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.917372941970825,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.43171763420105,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.075027942657471,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 41.50535583496094,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 25.35320281982422,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 65.44710540771484,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02104187011719,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:00.626176"
+},
+{
+  "_id": {
+    "$oid": "67e34a53a2eaf588bf0a34f6"
+  },
+  "Voltage_L1-N": {
+    "value": 224.2309112548828,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 239.9189453125,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 227.8654022216797,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 398.6690979003906,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.1662292480469,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 399.75543212890625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.0951805114746094,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.1766834259033203,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 1.841536283493042,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 694.0796508789062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 762.9650268554688,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 418.252197265625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 613.1826171875,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 422.2559814453125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 210.52992248535156,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8960132598876953,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4327597618103027,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.181295394897461,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 36.977577209472656,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 30.33662986755371,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 29.609155654907227,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01419448852539,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:07.465579"
+},
+{
+  "_id": {
+    "$oid": "67e34a5aa2eaf588bf0a34f8"
+  },
+  "Voltage_L1-N": {
+    "value": 224.88577270507812,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.7709197998047,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.5428009033203,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.9971008300781,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.289306640625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.9234619140625,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 3.7414979934692383,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.929622173309326,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 6.119046211242676,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 841.5430908203125,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1186.265625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 2457.4150390625,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 205.64920043945312,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1640.607421875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1077.1171875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.947082996368408,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5461795330047607,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.189555644989014,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 42.18868637084961,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 31.015623092651367,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 101.34794616699219,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01699447631836,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:14.265246"
+},
+{
+  "_id": {
+    "$oid": "67e34a61a2eaf588bf0a34fa"
+  },
+  "Voltage_L1-N": {
+    "value": 224.86802673339844,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.28567504882812,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.20753479003906,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 399.77685546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.7139587402344,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.5656433105469,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.0394110679626465,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 6.310689449310303,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 8.975926399230957,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1582.7607421875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1003.6089477539062,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 703.1458740234375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 1030.1865234375,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 254.28099060058594,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 577.7991943359375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 4.010302543640137,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.5005033016204834,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.205601215362549,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 26.426368713378906,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 21.79241943359375,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 59.47773361206055,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01932907104492,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:21.076374"
+},
+{
+  "_id": {
+    "$oid": "67e34a68a2eaf588bf0a34fc"
+  },
+  "Voltage_L1-N": {
+    "value": 224.9192657470703,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.9037628173828,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.30987548828125,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.348388671875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.3691711425781,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 400.6109924316406,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 6.433642387390137,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.690522193908691,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 5.077108860015869,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1447.400390625,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 1129.7073974609375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 1159.277099609375,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 518.3557739257812,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1488.07373046875,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1401.892578125,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.902433395385742,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.482064962387085,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.2152276039123535,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 26.848941802978516,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 22.697856903076172,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 60.3994026184082,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.018978118896484,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:28.255601"
+},
+{
+  "_id": {
+    "$oid": "67e34a6fa2eaf588bf0a34fe"
+  },
+  "Voltage_L1-N": {
+    "value": 225.04515075683594,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.78167724609375,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.5015106201172,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.0695495605469,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.2144470214844,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.0863952636719,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.501809597015381,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.9833571910858154,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.836789846420288,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1237.8436279296875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 960.1098022460938,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 648.4735107421875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 957.0330200195312,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 279.47393798828125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 512.2118530273438,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.952213764190674,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4858291149139404,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.247064590454102,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 42.151851654052734,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 48.55780792236328,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 76.76263427734375,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.022499084472656,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:35.226136"
+},
+{
+  "_id": {
+    "$oid": "67e34a76a2eaf588bf0a3500"
+  },
+  "Voltage_L1-N": {
+    "value": 225.0561981201172,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.94882202148438,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.5255126953125,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.4080505371094,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 400.6107177734375,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.10546875,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.70742654800415,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 4.046749114990234,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.893606662750244,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1284.9681396484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 975.4473266601562,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 661.5438842773438,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 528.4119262695312,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 1414.7255859375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1312.4315185546875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8424041271209717,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.2762181758880615,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.096036434173584,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 48.59197235107422,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 51.468711853027344,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 79.47432708740234,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.02119827270508,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:42.016577"
+},
+{
+  "_id": {
+    "$oid": "67e34a7ca2eaf588bf0a3502"
+  },
+  "Voltage_L1-N": {
+    "value": 225.1486053466797,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.84022521972656,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.55950927734375,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 400.3612060546875,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 399.98681640625,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.2317199707031,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 7.132372856140137,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 7.348099708557129,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 11.11219596862793,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1605.9656982421875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 976.5701293945312,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 668.262451171875,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 962.4215087890625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 278.38995361328125,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 514.2957763671875,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.8984603881835938,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 3.4545681476593018,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.257717132568359,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 24.418235778808594,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 20.220857620239258,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 62.31019592285156,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.01582717895508,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:48.865204"
+},
+{
+  "_id": {
+    "$oid": "67e34a83a2eaf588bf0a3504"
+  },
+  "Voltage_L1-N": {
+    "value": 225.3595428466797,
+    "unit": "V"
+  },
+  "Voltage_L2-N": {
+    "value": 240.98471069335938,
+    "unit": "V"
+  },
+  "Voltage_L3-N": {
+    "value": 228.7986602783203,
+    "unit": "V"
+  },
+  "Voltage_L1-L2": {
+    "value": 401.10797119140625,
+    "unit": "V"
+  },
+  "Voltage_L2-L3": {
+    "value": 401.0827331542969,
+    "unit": "V"
+  },
+  "Voltage_L3-L1": {
+    "value": 401.55987548828125,
+    "unit": "V"
+  },
+  "Current_L1": {
+    "value": 5.481701374053955,
+    "unit": "A"
+  },
+  "Current_L2": {
+    "value": 3.9894542694091797,
+    "unit": "A"
+  },
+  "Current_L3": {
+    "value": 2.9414420127868652,
+    "unit": "A"
+  },
+  "Apparent_Power_L1": {
+    "value": 1297.0697021484375,
+    "unit": "VA"
+  },
+  "Apparent_Power_L2": {
+    "value": 985.494873046875,
+    "unit": "VA"
+  },
+  "Apparent_Power_L3": {
+    "value": 672.9202270507812,
+    "unit": "VA"
+  },
+  "Active_Power_L1": {
+    "value": 971.44384765625,
+    "unit": "W"
+  },
+  "Active_Power_L2": {
+    "value": 277.94573974609375,
+    "unit": "W"
+  },
+  "Active_Power_L3": {
+    "value": 1175.49365234375,
+    "unit": "W"
+  },
+  "THD_Voltage_L1": {
+    "value": 3.9437592029571533,
+    "unit": "%"
+  },
+  "THD_Voltage_L2": {
+    "value": 2.981315851211548,
+    "unit": "%"
+  },
+  "THD_Voltage_L3": {
+    "value": 4.144929885864258,
+    "unit": "%"
+  },
+  "THD_Current_L1": {
+    "value": 30.45411491394043,
+    "unit": "%"
+  },
+  "THD_Current_L2": {
+    "value": 35.224578857421875,
+    "unit": "%"
+  },
+  "THD_Current_L3": {
+    "value": 62.81239318847656,
+    "unit": "%"
+  },
+  "Frequency": {
+    "value": 50.021820068359375,
+    "unit": "Hz"
+  },
+  "Timestamp": "2025-03-26 01:29:55.745777"
+}]

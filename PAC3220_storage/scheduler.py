@@ -19,11 +19,11 @@ def get_db_handler():
 def read_and_store():
     """Reads data from PAC3220 and stores it in the selected database."""
     modbus = ModbusReader()
-    #db = get_db_handler()
+    db = get_db_handler()
 
     data = modbus.read_all()
     if data:
-        #db.write_data(data)
+        db.write_data(data)
         print(data)
 
     modbus.close()

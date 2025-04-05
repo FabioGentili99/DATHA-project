@@ -6,7 +6,7 @@ MODBUS_PORT = 502
 POLL_INTERVAL = 5  # Seconds between reads
 
 # Database Selection
-DB_TYPE = "influxdb"  # Change to "mongodb" as needed
+DB_TYPE = "mongodb"  # Change to "mongodb" as needed
 
 # InfluxDB Configuration
 INFLUX_URL = "http://localhost:8086"
@@ -45,5 +45,6 @@ REGISTER_MAP = {
     "THD_Current_L2": {"address": 51, "unit": "%"},
     "THD_Current_L3": {"address": 53, "unit": "%"},
     "Frequency": {"address": 55, "unit": "Hz"},
+    #"Timestamp": {"address": 799, "unit": ""}
 
 }

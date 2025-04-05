@@ -16,12 +16,14 @@ def on_connect(client, userdata, flags, rc):
 def on_message(client, userdata, msg):
     """Processes incoming messages."""
     raw_log = msg.payload.decode('utf-8').strip()
-
+    #print (raw_log)
     formatted_log = format_log(raw_log)
-    print(formatted_log) 
+    print (formatted_log)
+    #print(formatted_log) 
     log_storage.write_data(formatted_log)
-    #with open("data.txt", "a") as file:
-        #file.write(formatted_log + "\n")
+    with open("logs2.txt", "a") as file:
+        file.write(raw_log + "\n")
+    
 
 def start_mqtt_client():
     """Initializes and starts the MQTT client."""

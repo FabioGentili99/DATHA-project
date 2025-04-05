@@ -13,8 +13,12 @@ class MongoDBHandler(DatabaseInterface):
 
     def write_data(self, data):
         """Inserts Modbus data into MongoDB."""
-        formatted_data = {"timestamp": datetime.utcnow()}
+        #formatted_data = {"timestamp": datetime.utcnow()}
+        formatted_data = {}
         for name, details in data.items():
+            if name == "Timestamp":
+                formatted_data[name] = details
+                continue
             formatted_data[name] = {"value": details["value"], "unit": details["unit"]}
         self.collection.insert_one(formatted_data)
         print(f"Data written to MongoDB: {formatted_data}")

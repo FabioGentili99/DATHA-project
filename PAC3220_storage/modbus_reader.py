@@ -2,6 +2,7 @@
 
 from pymodbus.client import ModbusTcpClient
 import struct
+import datetime
 from config import MODBUS_IP, MODBUS_PORT, REGISTER_MAP
 
 class ModbusReader:
@@ -25,6 +26,13 @@ class ModbusReader:
             value = self.read_float32(reg["address"])
             if value is not None:
                 data[name] = {"value": value, "unit": reg["unit"]}
+        
+        data["Timestamp"] = str(datetime.datetime.now())
+        """
+        ts = self.read_float32(799)
+        print(ts)
+        data["Timestamp"] = str(datetime.datetime.fromtimestamp(ts/1e18))
+        """
         return data
 
     def close(self):
